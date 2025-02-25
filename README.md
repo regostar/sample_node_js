@@ -19,4 +19,10 @@ npm install
 
 npm start
 
+# To Deploy using Netlify
 
+npm install netlify-cli -g
+
+
+
+https://docs.netlify.com/api/get-started/
